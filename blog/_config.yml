@@ -1,0 +1,30 @@
+title: Pensieve
+name: Pensieve
+email: nabarun.chatterjee@gmail.com
+tagline: Whats in a tag line
+description: >-
+    Some Description here
+url: https://pensieve.github.io
+github_username: nabarunchatterjee
+timezone: Asia/Kolkata
+# Build settings
+markdown: kramdown
+remote_theme: fongandrew/hydeout
+paginate: 5
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+version: 0.0.0
+sidebar_home_link: true
+disqus:
+    shortname: architect-3
+author:
+    name: 'Nabarun Chatterjee'
+
+pensieve:
+    repo: https://github.com/nabarunchatterjee/pensieve
+
+twitter:
+    username: vimrookie
