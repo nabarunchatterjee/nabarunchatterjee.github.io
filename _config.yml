@@ -5,7 +5,7 @@ tagline: Whats in a tag line
 description: >-
     Some Description here
 url: https://nabarunchatterjee.github.io
-baseurl: '/pensieve'
+baseurl: '/'
 github_username: nabarunchatterjee
 timezone: Asia/Kolkata
 # Build settings
