@@ -19,7 +19,7 @@ plugins:
 version: 0.0.0
 sidebar_home_link: true
 disqus:
-    shortname: nabarun_blog
+    shortname: pensieve-2
 author:
     name: 'Nabarun Chatterjee'
 
