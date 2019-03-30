@@ -19,7 +19,7 @@ plugins:
 version: 0.0.0
 sidebar_home_link: true
 disqus:
-    shortname: architect-3
+    shortname: nabarun_chatterjee
 author:
     name: 'Nabarun Chatterjee'
 
