@@ -3,7 +3,8 @@ name: Pensieve
 email: nabarun.chatterjee@gmail.com
 tagline: Whats in a tag line
 description: >-
-    Some Description here
+    Memory Review
+
 url: https://nabarunchatterjee.github.io
 github_username: nabarunchatterjee
 timezone: Asia/Kolkata
@@ -16,7 +17,6 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
 
-version: 0.0.0
 sidebar_home_link: true
 disqus:
     shortname: pensieve-2
@@ -28,3 +28,5 @@ pensieve:
 
 twitter:
     username: vimrookie
+
+resume: https://github.com/nabarunchatterjee/my-humble-cv/blob/master/resume.pdf

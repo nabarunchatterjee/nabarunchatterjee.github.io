@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 sidebar_link: true
 ---
+<h1> <p align="center" class="light"> <strong>Nabarun</strong> Chatterjee </p> </h1>
+<p align="center" class="light"> nabarun.chatterjee@gmail.com | Bengaluru, IN </p>
 
-Hi, I am Nabarun Chatterjee
-
+<p align="center"> Devops Engineer, Foodie, Curious </p>
