@@ -179,6 +179,11 @@ This post is also **not** about me lecturing about how we have become complacent
 
 **Survival Instincts.**
 
+<<<<<<< HEAD
+I feel the reason we forgot about our indomitable urge to survive , as I had mentioned at the start, is **lack of practice**.
+
+=======
+>>>>>>> b1c6efb02b1bdf303fbeafeee38d4fabe0e73dad
 You say, we have not.
 
   If we had not forgotten,
@@ -189,7 +194,7 @@ You say, we have not.
 
 >  Why is it so hard to understand that even if one does not die from this infection a lot of people will from the poverty that comes after this because of the economic crash that will come, if we allow this infection to spread?
 
->  Why is it so hard to understand to even it we are the select few that do not face poverty when this all dies down, we still have to forgo many of the luxuries that we had toiled day and night to perfect?
+>  Why is it so hard to understand, that even if we are the select few that do not face poverty when this all dies down, we still have to forgo many of the luxuries that we had toiled day and night to perfect?
 
   Friends,
   * This is not the time to agrue about how people from one religion/age group/country is immune to this virus.
