@@ -179,8 +179,11 @@ This post is also **not** about me lecturing about how we have become complacent
 
 **Survival Instincts.**
 
+<<<<<<< HEAD
 I feel the reason we forgot about our indomitable urge to survive , as I had mentioned at the start, is **lack of practice**.
 
+=======
+>>>>>>> b1c6efb02b1bdf303fbeafeee38d4fabe0e73dad
 You say, we have not.
 
   If we had not forgotten,
