@@ -12,9 +12,9 @@ p.light {
   font-weight: 50;
 }
 .container{
-    background-image: url('/assets/images/paper.gif');
+    background-image: url('{{site.url}}/assets/images/paper.gif');
 }
 
 .content{
-    background-image: url('/assets/images/paper.gif');
+    background-image: url('{{site.url}}/assets/images/paper.gif');
 }
