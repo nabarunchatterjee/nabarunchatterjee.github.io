@@ -1,6 +1,6 @@
 ---
 layout: post
-category: Random
+category: random
 title: Lessons learnt in the time of Coronavirus(COVID 19)
 permalink: /back-to-the-basics-or-lessons-learnt-in-the-time-of-corona/
 ---
