@@ -9,7 +9,7 @@ url: https://nabarunchatterjee.github.io
 github_username: nabarunchatterjee
 timezone: Asia/Kolkata
 # Build settings
-markdown: kramdown
+markdown: liquid
 remote_theme: fongandrew/hydeout
 paginate: 5
 plugins:
