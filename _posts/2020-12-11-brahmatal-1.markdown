@@ -3,7 +3,7 @@ layout: post
 category: travel 
 title: Breathe in a bit of Brahmatal - I 
 permalink: /brahmatal-1/
-thumbnail: "{{site.url}}/assets/images/brahmatal/brahmatal.jpg"
+thumbnail: "/assets/images/brahmatal/brahmatal.jpg"
 excerpt_separator: <!--More-->
 ---
 
