@@ -47,9 +47,12 @@ As I mentioned already told Telandi was windy.
 Have a look at this video to get a glimpse of what it was like at the Telandi
 Campsite.
 
-<iframe width="760" height="500" src="https://www.youtube.com/embed/YgA7m_CDhcw" frameborder="0" allowfullscreen></iframe>
+<div class="iframe-container">
+<!--<iframe width="760" height="500" src="https://www.youtube.com/embed/YgA7m_CDhcw" frameborder="0" allowfullscreen></iframe>-->
+<iframe  src="https://www.youtube.com/embed/YgA7m_CDhcw" frameborder="0" allowfullscreen></iframe>
+</div>
 
-At Telandi we learnt how to pitch our tents. It is not easy but it was a fun
+At Telandi we learnt how to pitch our tents. It was not easy but it was a fun
 experience.
 
 After having lunch, we had the rest of the day to do as we pleased.
