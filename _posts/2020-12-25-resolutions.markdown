@@ -149,7 +149,7 @@ Vipassana training.
 |Finished 12 days till now |
 
 |__Yearly Goal__|Meditate every day for at least 30 minutes as a non-negotiable task|
-|__January Goal__|Meditate every day for 5 minutes everyday|
+|__January Goal__|Meditate every day for 5 minutes |
 |__Accountability__|Screenshot from Headspace App at the end of each month|
 
 
