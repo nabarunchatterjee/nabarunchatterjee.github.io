@@ -5,6 +5,12 @@ title: Breathe in a bit of Brahmatal - I
 permalink: /brahmatal-1/
 thumbnail: "/assets/images/brahmatal/brahmatal.jpg"
 excerpt_separator: <!--More-->
+tags:
+    - "2020"
+    - motivation
+    - personal
+    - travel
+    - trekking
 ---
 
 | ![cover.jpg]({{site.url}}/assets/images/brahmatal/brahmatal.jpg) |

@@ -3,6 +3,12 @@ layout: post
 category: random
 title: Lessons learnt in the time of Coronavirus(COVID 19)
 permalink: /back-to-the-basics-or-lessons-learnt-in-the-time-of-corona/
+tags:
+    - "2020"
+    - coronavirus
+    - survival
+    - motivation
+    - random rambling
 ---
 
 This is an unusual time. None of the problems that I have learnt to stress 
