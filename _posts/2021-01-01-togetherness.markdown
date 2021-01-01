@@ -3,7 +3,7 @@ layout: post
 category: random
 title: Last few days of 2-getherness
 permalink: /togetherness/
-thumbnail: "/assets/images/togetherness/thumbnail.jpg"
+thumbnail: "/assets/images/togetherness/thumbnail.png"
 excerpt_separator: <!--More-->
 tags:
     - "2020"
