@@ -3,7 +3,7 @@ layout: post
 category: random
 title: Being the third kind
 permalink: /third-kind/
-thumbnail: "/assets/images/third-kind/thumbnail.png"
+thumbnail: "/assets/images/third-kind/thumbnail.jpg"
 excerpt_separator: <!--More-->
 tags:
     - "2021"
