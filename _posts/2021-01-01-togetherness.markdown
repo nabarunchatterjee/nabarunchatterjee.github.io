@@ -6,7 +6,7 @@ permalink: /togetherness/
 thumbnail: "/assets/images/togetherness/thumbnail.png"
 excerpt_separator: <!--More-->
 tags:
-    - "2020"
+    - "2021"
     - personal
     - relationships
     - random rambling
