@@ -116,7 +116,7 @@ talking.
 |:--:|:--:|
 |MG Park @ Chikmangalur|Siri Cafe @ Chikmangalur|
 
-We have also been to Yercaud, Munnar, Waynad, Mysore, Nandi Hills but I could
+We have also been to Yercaud, Munnar, Waynad, Mysore, Nandi Hills but I could not
 find good pictures for them.
 
 One very significant thing that started happening during this time was that our
