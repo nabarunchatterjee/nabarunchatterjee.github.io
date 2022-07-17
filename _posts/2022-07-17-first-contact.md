@@ -2,7 +2,7 @@
 layout: post
 category: random
 title:  A Dad's Point of View  -  First Contact
-permalink: /the-art-of-being-a-father/
+permalink: /first-contact/
 thumbnail: "/assets/images/first-contact/its-official.jpg"
 excerpt_separator: <!--More-->
 tags:
