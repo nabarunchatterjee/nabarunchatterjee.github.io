@@ -1,3 +1,4 @@
+---
 title: Pensieve
 name: Pensieve
 email: nabarun.chatterjee@gmail.com
@@ -19,16 +20,12 @@ plugins:
 
 sidebar_home_link: true
 disqus:
-    shortname: pensieve-2
+  shortname: pensieve-2
 author:
-    name: 'Nabarun Chatterjee'
-
+  name: 'Nabarun Chatterjee'
 pensieve:
-    repo: https://github.com/nabarunchatterjee/nabarunchatterjee.github.io/
-
+  repo: https://github.com/nabarunchatterjee/nabarunchatterjee.github.io/
 twitter:
-    username: vimrookie
-
+  username: vimrookie
 resume: https://github.com/nabarunchatterjee/my-humble-cv/blob/master/resume.pdf
-
 google_anlytics: UA-161522130-2
