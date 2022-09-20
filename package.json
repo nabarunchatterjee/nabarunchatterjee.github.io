@@ -1,0 +1,24 @@
+{
+  "name": "nabarunchatterjee.github.io",
+  "version": "1.0.0",
+  "description": "Pensieve",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nabarunchatterjee/nabarunchatterjee.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabarunchatterjee/nabarunchatterjee.github.io/issues"
+  },
+  "homepage": "https://github.com/nabarunchatterjee/nabarunchatterjee.github.io#readme",
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}

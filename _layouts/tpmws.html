@@ -1,0 +1,31 @@
+---
+layout: default
+title: The Poor Man's Web Service
+---
+
+<header>
+    <h4 class="page-title post-meta"> {{ layout.title }} - {{page.part}} </h4>
+    <h1> {{ page.title }} </h1>
+{% include post-meta.html post=page %}
+</header>
+<div class="post-body">
+    <h3 class="page-title post-meta right">
+        Reading Mode:
+        <label class="toggle">
+            <input type="checkbox" id="blog-tutorial-toggle"/>
+            <span class="slider"></span>
+            <span class="labels" data-on="Tutorial" data-off="Blog"></span>
+        </label>
+    </h3>
+    {{ content }}
+    {% include post-tags.html post=page %}
+</div>
+  {% include comments.html %}
+  {% include related_posts.html %}
+
+<link rel="stylesheet" href="{{ "/assets/css/tpmws.css" | relative_url }}" />
+<script src="{{ "/assets/js/tpmws.js" | relative_url }}" charset="utf-8" ></script>
+
+
+
+
