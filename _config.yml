@@ -4,9 +4,9 @@ name: Pensieve
 email: nabarun.chatterjee@gmail.com
 tagline: Whats in a tag line
 description: >-
-    Memory Review
+  Memory Review
 
-url: https://pensieve.nabarun.io
+url: https://nabarunchatterjee.github.io
 github_username: nabarunchatterjee
 timezone: Asia/Kolkata
 # Build settings
@@ -22,7 +22,7 @@ sidebar_home_link: true
 disqus:
   shortname: pensieve-2
 author:
-  name: 'Nabarun Chatterjee'
+  name: "Nabarun Chatterjee"
 pensieve:
   repo: https://github.com/nabarunchatterjee/nabarunchatterjee.github.io/
 twitter:
